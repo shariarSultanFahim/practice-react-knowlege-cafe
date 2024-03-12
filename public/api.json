@@ -6,7 +6,7 @@
         "authorName": "Alex Johnson",
         "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCZuslFbn42wwA9qw6ywBERhtpr_yOFy3Cw&usqp=CAU",
         "postedDate": "2024-03-12",
-        "readingTime": "8 min",
+        "readingTime": "8",
         "hashtags": ["VirtualReality", "Technology", "Innovation"]
       },
       {
@@ -16,7 +16,7 @@
         "authorName": "Emily Roberts",
         "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCZuslFbn42wwA9qw6ywBERhtpr_yOFy3Cw&usqp=CAU",
         "postedDate": "2024-03-10",
-        "readingTime": "5 min",
+        "readingTime": "5",
         "hashtags": ["Coffee", "Brewing", "TasteExperience"]
       },
       {
@@ -26,7 +26,7 @@
         "authorName": "David Anderson",
         "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCZuslFbn42wwA9qw6ywBERhtpr_yOFy3Cw&usqp=CAU",
         "postedDate": "2024-03-08",
-        "readingTime": "10 min",
+        "readingTime": "10",
         "hashtags": ["Travel", "Adventure", "Exploration"]
       },
       {
@@ -36,7 +36,7 @@
         "authorName": "Sophia Miller",
         "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCZuslFbn42wwA9qw6ywBERhtpr_yOFy3Cw&usqp=CAU",
         "postedDate": "2024-03-06",
-        "readingTime": "7 min",
+        "readingTime": "7",
         "hashtags": ["Health", "Wellness", "Nutrition"]
       },
       {
@@ -46,7 +46,7 @@
         "authorName": "Michael Carter",
         "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCZuslFbn42wwA9qw6ywBERhtpr_yOFy3Cw&usqp=CAU",
         "postedDate": "2024-03-04",
-        "readingTime": "12 min",
+        "readingTime": "12",
         "hashtags": ["Photography", "Nature", "Creativity"]
       }
 ]
